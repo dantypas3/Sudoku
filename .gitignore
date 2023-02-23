@@ -1,8 +1,6 @@
-#ignore all
-/*
-#except
-!.gitignore
-!.cc
-!.hh
-!.cpp
-!.h
+#ignore
+*CMakeLists.txt
+*.o
+*~
+*cmake-build-debug
+*.idea
